@@ -3,8 +3,8 @@
 
 <div align="center">
   <a href="https://github.com/S-Nathalia">
-  <img height="176em" src="https://github-readme-stats.vercel.app/api?username=S-Nathalia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Nathalia&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=S-Nathalia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Nathalia&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt"Nath-linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
