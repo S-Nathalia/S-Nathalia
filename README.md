@@ -11,7 +11,7 @@
   <img align="center" alt="Nath-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Nath-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />
   <img align="center" alt="Nath-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Nathalia gifs" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/895125184758054925/895125261039833108/measanime.gif">
+<!--   <img align="right" alt="Nathalia gifs" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/895125184758054925/895125261039833108/measanime.gif"> -->
 </div>
  
 ##
